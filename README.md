@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://drive.google.com/file/d/1WSoWMc7vGNWz7qFHi3WWcQDbaajdAaoE/view?usp=sharing" width="300"/>
+  <img src="https://media.licdn.com/dms/image/D4D03AQFaY1BmAi6_dg/profile-displayphoto-shrink_400_400/0/1706466180458?e=1716422400&v=beta&t=vIn8u5YnwKC4Tfdv1Ln6RNOh2PkdGQSwexnYwgVaxMg" width="300"/>
 </div>
 <div id="badges">
   <a href="your-linkedin-URL">
