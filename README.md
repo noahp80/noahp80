@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.licdn.com/dms/image/D4D03AQFaY1BmAi6_dg/profile-displayphoto-shrink_400_400/0/1706466180458?e=1716422400&v=beta&t=vIn8u5YnwKC4Tfdv1Ln6RNOh2PkdGQSwexnYwgVaxMg" width="100" border="1px" border-radius="50%"/>
+  <img src="https://media.licdn.com/dms/image/D4D03AQFaY1BmAi6_dg/profile-displayphoto-shrink_400_400/0/1706466180458?e=1716422400&v=beta&t=vIn8u5YnwKC4Tfdv1Ln6RNOh2PkdGQSwexnYwgVaxMg" width="100" style="border-radius: 50%;"/>
 </div>
 <div id="badges">
   <h1>
