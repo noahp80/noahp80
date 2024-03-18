@@ -19,8 +19,13 @@
   </a>
 </div>
 ---
-About me:
-
+### :man_technologist: About Me :
+As a Full-Stack Web Developer, I bring a robust skill set rooted in JavaScript and specialized
+proficiency in the MERN stack. My passion lies in crafting dynamic and visually appealing user
+interfaces, leveraging a solid understanding of front-end technologies such as HTML5 and CSS. With
+hands-on experience in React.js, I excel in developing interactive and efficient single-page
+applications. I am dedicated to continue learning, adapting to emerging technologies, and solving
+complex challenges, making me a valuable asset to collaborative development teams.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
