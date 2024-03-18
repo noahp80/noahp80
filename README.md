@@ -1,9 +1,8 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.licdn.com/dms/image/D4D03AQFaY1BmAi6_dg/profile-displayphoto-shrink_400_400/0/1706466180458?e=1716422400&v=beta&t=vIn8u5YnwKC4Tfdv1Ln6RNOh2PkdGQSwexnYwgVaxMg" width="300"/>
+  <img src="https://media.licdn.com/dms/image/D4D03AQFaY1BmAi6_dg/profile-displayphoto-shrink_400_400/0/1706466180458?e=1716422400&v=beta&t=vIn8u5YnwKC4Tfdv1Ln6RNOh2PkdGQSwexnYwgVaxMg" width="100"/>
 </div>
 <div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=noahp80&style=flat-square&color=blue" alt=""/>
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -18,6 +17,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=noahp80&style=flat-square&color=blue" alt=""/>
 ---
 ### :man_technologist: About Me :
 As a Full-Stack Web Developer, I bring a robust skill set rooted in JavaScript and specialized
