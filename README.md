@@ -17,9 +17,10 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=noahp80&style=flat-square&color=blue" alt=""/>
+
 ___
 
-### :man_technologist: About Me :
+:man_technologist: About Me :
 
 As a Full-Stack Web Developer, I bring a robust skill set rooted in JavaScript and specialized
 proficiency in the MERN stack. My passion lies in crafting dynamic and visually appealing user
@@ -30,7 +31,7 @@ complex challenges, making me a valuable asset to collaborative development team
 
 ___
 
-### :hammer_and_wrench: Languages and Tools :
+:hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
