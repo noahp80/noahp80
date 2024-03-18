@@ -1,4 +1,3 @@
-### Hi there 👋
 <div id="header" align="center">
   <img src="https://media.licdn.com/dms/image/D4D03AQFaY1BmAi6_dg/profile-displayphoto-shrink_400_400/0/1706466180458?e=1716422400&v=beta&t=vIn8u5YnwKC4Tfdv1Ln6RNOh2PkdGQSwexnYwgVaxMg" width="100"/>
 </div>
@@ -18,17 +17,21 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=noahp80&style=flat-square&color=blue" alt=""/>
----
+___
+
 ### :man_technologist: About Me :
+
 As a Full-Stack Web Developer, I bring a robust skill set rooted in JavaScript and specialized
 proficiency in the MERN stack. My passion lies in crafting dynamic and visually appealing user
 interfaces, leveraging a solid understanding of front-end technologies such as HTML5 and CSS. With
 hands-on experience in React.js, I excel in developing interactive and efficient single-page
 applications. I am dedicated to continue learning, adapting to emerging technologies, and solving
 complex challenges, making me a valuable asset to collaborative development teams.
----
+
+___
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
