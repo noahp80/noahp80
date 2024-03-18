@@ -1,19 +1,13 @@
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/150121522?v=4" width="200"/>
+<img src="https://avatars.githubusercontent.com/u/150121522?v=4" width="200" alt="Avatar" style="border-radius: 50%; overflow: hidden;">
 </div>
 <div id="badges">
   <h1>
-  hey there
+  Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/emmanouil-popas-42294220b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=noahp80&style=flat-square&color=blue" alt=""/>
