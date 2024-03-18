@@ -1,6 +1,4 @@
 <div id="header" align="center">
-<img src="https://avatars.githubusercontent.com/u/150121522?v=4" width="200">
-
 <div id="badges">
   <h1>
   Hey There
