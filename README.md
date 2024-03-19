@@ -8,19 +8,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=noahp80&style=flat-square&color=blue" alt=""/>
 </div>
 
 ___
 
 :man_technologist: About Me :
 
-As a Full-Stack Web Developer, I bring a robust skill set rooted in JavaScript and specialized
-proficiency in the MERN stack. My passion lies in crafting dynamic and visually appealing user
-interfaces, leveraging a solid understanding of front-end technologies such as HTML5 and CSS. With
-hands-on experience in React.js, I excel in developing interactive and efficient single-page
-applications. I am dedicated to continue learning, adapting to emerging technologies, and solving
-complex challenges, making me a valuable asset to collaborative development teams.
+My name is Emmanouil, though most call me Noah. Originally from Corfu, I've made Berlin my home for many years. The journey to becoming a developer has long been part of my plan. I began by delving into online courses during my spare time, while working as a manager. Recently I took a significant step forward by enrolling in the Ironhack Web Development Bootcamp, an experience that has been nothing short of amazing. I'm excited about improving my coding abilities and expanding my knowledge further.
 
 ___
 
